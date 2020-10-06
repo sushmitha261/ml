@@ -1,0 +1,11 @@
+day,temperature,windspeed,event
+1/1/2020,32,NaN,rain
+1/4/2020,35,7,sunny
+1/5/2020,NaN,NaN,NaN
+1/6/2020,36,7,snow
+1/8/2020,34,NaN,sunny
+1/9/2020,NaN,2,sunny
+1/10/2020,NaN,NaN,NaN
+1/11/2020,38,6,rain
+1/12/2020,32,5,rain
+1/15/2020,32,NaN,sunny 
